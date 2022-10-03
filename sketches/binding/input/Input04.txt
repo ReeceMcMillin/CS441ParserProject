@@ -1,0 +1,6 @@
+read A 
+read B 
+C := Q + R * W + 6 - Z
+write D 
+$$ 
+Semantically this is a mess, but it ought to parse OK. 

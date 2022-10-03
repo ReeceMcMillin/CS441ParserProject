@@ -1,0 +1,5 @@
+read A 
+read B 
+C := A ^ B 
+$$ 
+This should result in an error during the scanning process, as '^' is not a valid token in this grammar. 

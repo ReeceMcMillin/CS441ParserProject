@@ -1,0 +1,6 @@
+read A 
+read B 
+C := Fred + Wilma - reader + writer * 5
+write D 
+$$ 
+Semantically this is a mess, but it ought to parse OK. This also tests "longest match" for strings in scanner; your code should identify that "reader" and "writer" are NOT keywords. 

@@ -1,0 +1,5 @@
+read A 
+read B 
+write (A + 12345) * ((B - 2) + A - (B * A)))))))
+$$ 
+Syntax error on line 3 (too many closing parenthese). 
