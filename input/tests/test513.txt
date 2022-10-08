@@ -1,0 +1,3 @@
+write hi
+write X / 32
+$$

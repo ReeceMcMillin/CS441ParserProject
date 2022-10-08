@@ -1,0 +1,5 @@
+VR := (.6 * o6 * aB) * 2
+read n5
+yt := 0
+read d2
+$$

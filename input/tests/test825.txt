@@ -1,0 +1,3 @@
+read WC
+write kG * 01 * F
+$$

@@ -1,0 +1,3 @@
+read u
+read aX
+$$

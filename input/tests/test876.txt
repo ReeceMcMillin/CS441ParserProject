@@ -1,0 +1,5 @@
+write (X) - 6 * 9 * .6
+read T
+write 7 * Z3 - (n3 - tx)
+read Q0
+$$

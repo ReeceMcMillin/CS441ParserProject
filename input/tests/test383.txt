@@ -1,0 +1,3 @@
+write f * d3 / .15 + gM
+read o
+$$

@@ -1,0 +1,5 @@
+H := ((zE))
+write (jo)
+read y4
+T := (8018 / 1) - (Pc / K)
+$$

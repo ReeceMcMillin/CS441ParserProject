@@ -1,0 +1,4 @@
+write 6 / 5.71
+read wh
+R9 := I8
+$$

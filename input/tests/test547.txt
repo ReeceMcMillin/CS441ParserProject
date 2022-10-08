@@ -1,0 +1,5 @@
+read Jp
+write (P9) - .828
+k := 5 * d9 / Ps
+write C - .4 / oa
+$$

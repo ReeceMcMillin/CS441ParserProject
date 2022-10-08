@@ -1,0 +1,4 @@
+write P7 * 021
+read r
+read hp
+$$

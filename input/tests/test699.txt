@@ -1,0 +1,7 @@
+write P
+write .32172 / sL * oM
+WF := (.713) / Og + 1073582.1
+read ra
+read p3
+read z8
+$$

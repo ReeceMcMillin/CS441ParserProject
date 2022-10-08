@@ -1,0 +1,5 @@
+hB := (y7 * E) - B
+read GI
+read Ig
+write 2
+$$

@@ -1,0 +1,4 @@
+write Xl / 792 / L / wh / O8 - W8 / DC + s2
+eu := 4 * u4 + (11 / v8)
+write 43
+$$

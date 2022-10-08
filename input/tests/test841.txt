@@ -1,0 +1,5 @@
+write o
+write uv + .50
+Mq := YA
+write (31 / 1 * T / B + WY - S5) - 0360
+$$

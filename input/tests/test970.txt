@@ -1,0 +1,6 @@
+write 920 * (q9 * 4 + Pz - .3 / (96)) * 755
+C := F
+write (c0 * dx)
+W := 1
+read c
+$$

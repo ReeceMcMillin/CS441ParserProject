@@ -1,0 +1,5 @@
+write s5 + M6 * i / Ym
+read ki
+read o2
+read Se
+$$

@@ -1,0 +1,5 @@
+read V
+read Wn
+write 41. - D / 41. / 42585
+write GX * 5
+$$

@@ -1,0 +1,7 @@
+read AW
+read G
+Af := (uP * y8)
+write (J) * IM
+read n5
+read E
+$$

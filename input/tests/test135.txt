@@ -1,0 +1,3 @@
+read f8
+read o0
+$$

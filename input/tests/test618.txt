@@ -1,0 +1,4 @@
+write (jd + k) / 7
+write ip
+u := 2886.
+$$

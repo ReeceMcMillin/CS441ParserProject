@@ -1,0 +1,4 @@
+read l
+read B
+TD := 8
+$$

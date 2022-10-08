@@ -1,0 +1,3 @@
+read a0
+read k
+$$

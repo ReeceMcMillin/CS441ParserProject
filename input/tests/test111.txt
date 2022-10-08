@@ -1,0 +1,6 @@
+write (N8 / r3)
+P5 := 0.5 / .6
+read o2
+write 77 / L / (P)
+write 919.6 + LO
+$$

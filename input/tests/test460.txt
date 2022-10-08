@@ -1,0 +1,5 @@
+write x
+b := 7.7 * fp
+i := bO
+read fF
+$$

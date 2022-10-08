@@ -1,0 +1,4 @@
+write 0 / ((cF))
+rz := hm - U4 + .56 + 30.
+read x7
+$$

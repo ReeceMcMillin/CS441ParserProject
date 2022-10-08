@@ -1,0 +1,7 @@
+read p
+s6 := 87 + 57 + (Ip / AH / 8.421) + 9
+read L0
+read f8
+write (52.) + (aN / 76235) / 3
+read o
+$$

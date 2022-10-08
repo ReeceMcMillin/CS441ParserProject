@@ -1,0 +1,5 @@
+write 6 * (9 * UY)
+write 71.997
+write nQ / (O9)
+Wr := Vh
+$$

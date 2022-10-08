@@ -1,0 +1,6 @@
+read H
+write 9286
+read wq
+write .2
+write .4
+$$

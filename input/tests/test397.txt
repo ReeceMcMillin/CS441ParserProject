@@ -1,0 +1,5 @@
+write K
+write ks / (592509.32) / 0 / (O - N) + 9. - 10 * d
+read e
+C := ke
+$$

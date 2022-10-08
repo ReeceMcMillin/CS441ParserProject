@@ -1,0 +1,5 @@
+write 1 - yc
+q := S * Q + (90.2)
+read S3
+read t6
+$$

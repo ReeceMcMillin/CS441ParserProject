@@ -1,0 +1,6 @@
+read Tg
+write 3 * s
+B := (t) - 6550 / 3.9
+read G5
+write 96 - u
+$$

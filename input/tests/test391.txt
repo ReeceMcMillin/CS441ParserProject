@@ -1,0 +1,3 @@
+write 1
+write (s3) - ((C7 - e))
+$$

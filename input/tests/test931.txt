@@ -1,0 +1,3 @@
+write MB
+write 062 / q - .696806
+$$

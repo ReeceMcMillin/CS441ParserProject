@@ -1,0 +1,3 @@
+write Og - .42
+read u5
+$$

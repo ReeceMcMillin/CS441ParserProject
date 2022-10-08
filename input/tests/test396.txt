@@ -1,0 +1,7 @@
+write 4
+write bZ
+read l2
+write E
+Cf := p
+write K3 - 9.2
+$$

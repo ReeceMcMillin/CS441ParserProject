@@ -1,0 +1,3 @@
+write .4 * T * 1 * 03 - IG * W
+write 9.7
+$$

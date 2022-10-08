@@ -1,0 +1,5 @@
+write 9 / i9 / A
+read u6
+write m6 * 9
+L := dv
+$$

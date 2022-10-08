@@ -1,0 +1,3 @@
+read pi
+write lz * 74.5
+$$

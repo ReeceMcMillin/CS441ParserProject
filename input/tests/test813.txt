@@ -1,0 +1,4 @@
+k1 := ((P1))
+read XF
+read E
+$$

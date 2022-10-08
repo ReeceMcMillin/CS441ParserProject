@@ -1,0 +1,5 @@
+write t9 - P1 * (DP / Jk - (m3) + (4.))
+read Mb
+write 35 * UV
+write .5
+$$

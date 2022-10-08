@@ -1,0 +1,4 @@
+read Ta
+R0 := of
+write r + 3 + V
+$$

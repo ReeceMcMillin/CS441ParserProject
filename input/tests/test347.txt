@@ -1,0 +1,5 @@
+read Fa
+write 051
+U8 := (Hw - 40.1280)
+read DO
+$$

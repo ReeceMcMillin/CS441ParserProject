@@ -1,0 +1,3 @@
+write N + i * 52 * (6 + Fy)
+write YB * 3 * A6 - 847
+$$

@@ -1,0 +1,3 @@
+read Z
+read C
+$$

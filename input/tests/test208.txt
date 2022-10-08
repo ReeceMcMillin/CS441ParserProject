@@ -1,0 +1,4 @@
+write ((a4))
+read Z2
+read S
+$$

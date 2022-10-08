@@ -1,0 +1,5 @@
+read I0
+U := kT + 70.
+RS := 57
+write d3
+$$

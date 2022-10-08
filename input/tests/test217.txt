@@ -1,0 +1,4 @@
+write 3
+sc := 4
+write bA - 20.7
+$$

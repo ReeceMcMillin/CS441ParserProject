@@ -1,0 +1,5 @@
+write YZ - A / s8 - p * y + p9 * w * U
+write e6 / .8 + Vb
+read O9
+read mq
+$$

@@ -1,0 +1,4 @@
+read i4
+write (Ut) - 346
+write 8
+$$

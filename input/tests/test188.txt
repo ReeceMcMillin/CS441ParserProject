@@ -1,0 +1,5 @@
+read P
+read zn
+read a3
+read O
+$$

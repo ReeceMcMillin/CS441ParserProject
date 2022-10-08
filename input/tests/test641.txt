@@ -1,0 +1,4 @@
+read E3
+sF := o
+write (0 / dU)
+$$

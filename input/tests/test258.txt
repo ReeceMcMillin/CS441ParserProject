@@ -1,0 +1,6 @@
+write .19712 - 27.8
+read K
+read El
+l8 := 1
+cA := yI
+$$

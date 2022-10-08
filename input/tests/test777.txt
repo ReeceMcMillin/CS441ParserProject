@@ -1,0 +1,5 @@
+C7 := r0 * e1 - w + (.5 - .71)
+read i5
+read VE
+read NZ
+$$

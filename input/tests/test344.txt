@@ -1,0 +1,4 @@
+write 4 * 3.
+read z4
+write qF - O8
+$$

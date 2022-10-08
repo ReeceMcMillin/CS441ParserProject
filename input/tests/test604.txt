@@ -1,0 +1,5 @@
+qq := 3 * ip + (L) * (43)
+DI := 57
+read h
+write 6
+$$

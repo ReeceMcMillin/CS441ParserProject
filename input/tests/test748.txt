@@ -1,0 +1,6 @@
+read R0
+a := G - I
+write h
+dC := aN - .8
+read W
+$$

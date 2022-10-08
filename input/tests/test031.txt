@@ -1,0 +1,5 @@
+write 61 / 5 / D2 - 89.
+read S1
+write WW + ((m0) + 2 * 86 + 79)
+write 1
+$$

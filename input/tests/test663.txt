@@ -1,0 +1,3 @@
+read y0
+write ED - 48 * .84
+$$

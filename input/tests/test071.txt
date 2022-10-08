@@ -1,0 +1,6 @@
+write X * 3
+write 687 * 8.3
+read S7
+read C
+E6 := 77719.5 / .50 * J5
+$$

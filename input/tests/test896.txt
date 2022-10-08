@@ -1,0 +1,5 @@
+read i
+read H
+read aH
+S := (y8)
+$$

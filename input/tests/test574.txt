@@ -1,0 +1,4 @@
+read ix
+read C8
+write 6.
+$$

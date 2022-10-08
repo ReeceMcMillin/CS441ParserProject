@@ -1,0 +1,6 @@
+read U9
+read ny
+read B3
+read O6
+write wi
+$$

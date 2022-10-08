@@ -1,0 +1,5 @@
+write S
+write K1 + wG
+read nH
+write (633)
+$$

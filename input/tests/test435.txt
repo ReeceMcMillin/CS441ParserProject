@@ -1,0 +1,5 @@
+write 5 - T7 / .7
+write 24187 / U8
+write 9
+read P0
+$$

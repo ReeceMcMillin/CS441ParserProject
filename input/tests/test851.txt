@@ -1,0 +1,5 @@
+read T
+read xm
+write (.8 * 9.43) * .8
+write T1 / S4 / Q - H7 - A5 + (1 - y)
+$$

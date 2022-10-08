@@ -1,0 +1,5 @@
+read Gt
+write 8.5 + O * P0
+write 8.85 - 052.2
+V8 := l
+$$

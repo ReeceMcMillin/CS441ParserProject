@@ -1,0 +1,5 @@
+write vd * x * 9.34 * 7
+write y / yl
+write ((m) / b - v2 + (2) + ((69. - e + 1.2)))
+X := V
+$$

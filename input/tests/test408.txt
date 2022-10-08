@@ -1,0 +1,5 @@
+read c
+write d * 7 / BX / 1.70 / 753.001 * L6 - LI
+read d
+write 80
+$$

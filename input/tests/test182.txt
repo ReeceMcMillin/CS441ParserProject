@@ -1,0 +1,4 @@
+read Y
+read F
+read I1
+$$

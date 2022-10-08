@@ -1,0 +1,8 @@
+read U
+read N
+write vb - 26. + 2 + 34.46 / 69.
+read e4
+write N / l1 * C - (55.4995 * 50.6) - 9 * a
+write 2 * (rj)
+read s4
+$$

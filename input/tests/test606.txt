@@ -1,0 +1,6 @@
+x := 9. / (3502 / .787287345) * m9
+read G0
+read N3
+read x
+read b
+$$

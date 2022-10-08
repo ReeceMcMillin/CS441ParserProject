@@ -1,0 +1,3 @@
+write cc / (l8) - w3 - 0
+read sq
+$$

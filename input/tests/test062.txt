@@ -1,0 +1,6 @@
+read S7
+read s5
+read BJ
+read H
+CK := (.79 + C)
+$$

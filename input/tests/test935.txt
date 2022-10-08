@@ -1,0 +1,3 @@
+read dZ
+write 23.1
+$$

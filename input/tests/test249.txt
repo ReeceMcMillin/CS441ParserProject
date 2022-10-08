@@ -1,0 +1,4 @@
+M2 := Gm
+write 74803.95
+read M
+$$

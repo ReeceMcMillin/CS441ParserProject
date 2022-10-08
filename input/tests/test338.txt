@@ -1,0 +1,5 @@
+write (7. / 8.99)
+read z4
+read t
+read nJ
+$$

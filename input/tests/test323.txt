@@ -1,0 +1,5 @@
+write MB
+u5 := 9. / 7.
+read w
+read Y
+$$

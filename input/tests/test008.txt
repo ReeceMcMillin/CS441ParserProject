@@ -1,0 +1,6 @@
+read P
+write 3. - q6
+read g
+read Q
+write qG + na
+$$

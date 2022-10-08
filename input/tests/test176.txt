@@ -1,0 +1,6 @@
+e := CL * 7.
+read J3
+read fk
+write 1. + (F2) + .1
+I6 := q
+$$

@@ -1,0 +1,3 @@
+write k - G5 / j7 * (u2)
+read j
+$$

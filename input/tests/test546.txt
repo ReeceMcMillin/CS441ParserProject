@@ -1,0 +1,6 @@
+write .78
+write (Er)
+write 423 + 1
+write (5.558893095)
+x := 2
+$$

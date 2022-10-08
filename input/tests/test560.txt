@@ -1,0 +1,6 @@
+py := V + (6692)
+read y9
+read t
+write 44071
+o := (f * p) * r / 5 + 769 - .2
+$$

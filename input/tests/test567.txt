@@ -1,0 +1,4 @@
+write Q3 / F
+read KV
+write 2.5 / R * s3 / 8.338
+$$

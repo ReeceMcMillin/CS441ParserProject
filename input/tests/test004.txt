@@ -1,0 +1,4 @@
+write tl * 76 / MM + 0.21237
+read iM
+read X1
+$$

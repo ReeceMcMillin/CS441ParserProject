@@ -1,0 +1,5 @@
+read U
+write GU
+write .5 / x0 * 910.14 / L8
+read r
+$$

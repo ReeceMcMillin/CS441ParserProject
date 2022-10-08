@@ -1,0 +1,6 @@
+write (L / q) / 1280633 - g
+write (0 - 0.5 + 84.413 * V2)
+read W
+read Qm
+write 9.8 / (7)
+$$

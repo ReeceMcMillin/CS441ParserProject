@@ -1,0 +1,6 @@
+write E9 / (u6) + (7.) / B3 - 23
+read R9
+l5 := y6 * .59
+write (0.9 + (j) / 5) / 6
+write 9
+$$

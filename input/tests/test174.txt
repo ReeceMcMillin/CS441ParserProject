@@ -1,0 +1,4 @@
+write 7
+write 11 / Y8 / 1 / 20 * 2. - 44.8
+write E + (sG)
+$$

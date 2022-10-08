@@ -1,0 +1,8 @@
+write v9
+read Z
+read j6
+M4 := 0
+read t
+d7 := 0
+A6 := .080 / 2
+$$

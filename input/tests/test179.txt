@@ -1,0 +1,3 @@
+write Oi / 4.9
+read u
+$$

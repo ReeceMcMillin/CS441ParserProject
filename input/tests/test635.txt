@@ -1,0 +1,5 @@
+read Y
+write k7
+write i4 - U6
+read R1
+$$

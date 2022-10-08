@@ -1,0 +1,4 @@
+read k
+write (((1. / ny + 33.2))) / I0 / (VM) / mc * 2.2658 + l - (i)
+read T
+$$

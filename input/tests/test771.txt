@@ -1,0 +1,3 @@
+read A
+write g
+$$

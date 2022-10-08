@@ -1,0 +1,5 @@
+write X9
+read lI
+xo := 888 + Jh / HX - (B0) - C
+write 86.9 * vt + 5 + xZ / pa + 63
+$$

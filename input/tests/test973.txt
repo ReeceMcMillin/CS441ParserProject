@@ -1,0 +1,4 @@
+write 44 - (VY)
+read a6
+write (4 - i)
+$$

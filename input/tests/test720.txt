@@ -1,0 +1,5 @@
+read R
+write 3.5
+write l7
+read P
+$$

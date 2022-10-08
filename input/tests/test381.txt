@@ -1,0 +1,5 @@
+write yv
+read ng
+read q
+Yk := 19.75
+$$

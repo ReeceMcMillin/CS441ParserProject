@@ -1,0 +1,4 @@
+read w
+write G1 - .095 * l1 * (u)
+X1 := e
+$$

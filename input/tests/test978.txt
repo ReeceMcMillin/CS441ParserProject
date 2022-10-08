@@ -1,0 +1,3 @@
+write 9. * 7. * G + rz - G
+read By
+$$

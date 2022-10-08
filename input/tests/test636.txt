@@ -1,0 +1,6 @@
+v := VJ * (q) / tq
+read a
+write 09.3 + (0.05 * 4)
+read kv
+read Uk
+$$

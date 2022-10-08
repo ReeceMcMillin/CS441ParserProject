@@ -1,0 +1,6 @@
+write f8
+read r
+K := (Pn - 0 - (0 - 476 - L6 * 964.7) / i0)
+read p
+read N
+$$

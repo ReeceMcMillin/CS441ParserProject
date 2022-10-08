@@ -1,0 +1,5 @@
+write ((U - 2) * 0)
+write n2
+write P * a + (((UO)) * 02.5)
+read E
+$$

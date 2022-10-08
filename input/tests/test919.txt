@@ -1,0 +1,5 @@
+write 6.54 * (8736 + 95.80 / CQ) - w
+read K6
+SA := mT / N
+X := al / 41
+$$

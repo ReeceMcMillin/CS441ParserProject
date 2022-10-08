@@ -1,0 +1,6 @@
+write hT / D * V
+write 9 * H / ((8.8 - dq - b0 - 0.) + (D0) + 2 + 85.) + U
+write 14
+read AD
+An := 4
+$$

@@ -1,0 +1,5 @@
+write 943 * 24398. + Jn * (4) - .7
+read fn
+read C
+write EV
+$$

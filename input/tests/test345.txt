@@ -1,0 +1,4 @@
+write y9
+read Iz
+read Z
+$$

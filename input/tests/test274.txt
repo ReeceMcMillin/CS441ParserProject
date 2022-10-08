@@ -1,0 +1,5 @@
+read N7
+KQ := 3. / 9 * (6958.7 / 9.9 * f4 * g4) * (d + X) - 784. + qJ / TR * i
+read A6
+read O
+$$

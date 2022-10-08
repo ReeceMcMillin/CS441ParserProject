@@ -1,0 +1,6 @@
+g2 := (Yz + 16) * .178 / w7 + l * (sd * (6)) / o7 + tq
+write GU / L + 867
+read r
+read u
+AF := G5
+$$

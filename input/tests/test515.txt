@@ -1,0 +1,5 @@
+read i
+write (767) * e
+write D
+write 231.745
+$$

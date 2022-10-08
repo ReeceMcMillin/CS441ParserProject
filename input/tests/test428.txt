@@ -1,0 +1,5 @@
+write (Q2 + 22.0) - 07 / (.3) * 697 - 16 - 9
+write W2 * z0
+write ((u))
+read o
+$$

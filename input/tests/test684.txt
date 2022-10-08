@@ -1,0 +1,4 @@
+read J
+write 6 * 420
+read U
+$$

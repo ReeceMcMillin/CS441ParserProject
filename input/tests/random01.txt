@@ -1,0 +1,5 @@
+C := k0 + 2.1 * gu - (H / 2) / kU
+write r + (9.6)
+read GM
+write 1
+$$

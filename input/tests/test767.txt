@@ -1,0 +1,6 @@
+read I
+read I3
+o1 := 25 / R5
+write Q
+write F + (OH) + 8.72736718
+$$

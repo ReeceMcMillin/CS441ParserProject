@@ -1,0 +1,7 @@
+Ac := 7 / W9 - 46
+read rT
+write V / 0
+gR := 38 + 4859212 * s
+write .1 + 9
+a := b3
+$$

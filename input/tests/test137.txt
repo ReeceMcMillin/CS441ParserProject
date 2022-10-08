@@ -1,0 +1,4 @@
+read ab
+write 9
+read G
+$$

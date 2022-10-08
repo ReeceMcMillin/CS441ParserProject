@@ -1,0 +1,4 @@
+read l4
+write Y
+read A7
+$$

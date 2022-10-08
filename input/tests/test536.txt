@@ -1,0 +1,5 @@
+v0 := (794.0 / rt - (9.55)) * 869 * B
+read w
+read n8
+read o
+$$

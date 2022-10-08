@@ -1,0 +1,5 @@
+read du
+write 21 / K4 / 4 * .02 / Ho - mk
+write dk / 15.
+write 55 - (0) - 5.309370 * (G2 / T8)
+$$

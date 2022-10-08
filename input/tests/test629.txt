@@ -1,0 +1,4 @@
+read C5
+read G
+Z8 := 64 + U7
+$$

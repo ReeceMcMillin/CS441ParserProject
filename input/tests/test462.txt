@@ -1,0 +1,4 @@
+read H
+read M2
+A := M5
+$$

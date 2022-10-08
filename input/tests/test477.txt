@@ -1,0 +1,4 @@
+read Y5
+write 471
+write (((29)))
+$$

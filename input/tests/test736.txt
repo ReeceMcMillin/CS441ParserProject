@@ -1,0 +1,5 @@
+write 24656.9 / 4 / 0
+write 07.53 + X6 * Sx * .3 / d1
+read lc
+write v
+$$

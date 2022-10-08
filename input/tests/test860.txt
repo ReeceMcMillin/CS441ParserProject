@@ -1,0 +1,3 @@
+write N / 70.8 + X
+write BG - mw
+$$

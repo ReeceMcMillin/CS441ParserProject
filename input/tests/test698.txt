@@ -1,0 +1,4 @@
+write .9
+read r4
+read k
+$$

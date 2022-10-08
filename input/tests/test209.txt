@@ -1,0 +1,5 @@
+read r7
+write E / F4 + 20.1
+read L6
+read Ig
+$$

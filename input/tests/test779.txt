@@ -1,0 +1,4 @@
+read g
+o8 := oy
+read pV
+$$

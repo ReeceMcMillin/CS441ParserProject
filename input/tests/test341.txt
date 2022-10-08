@@ -1,0 +1,5 @@
+write (58 - 66) - 8.531 + D
+read XF
+read V4
+write 26.8
+$$

@@ -1,0 +1,5 @@
+write qV / (7003) / 5.2
+read fM
+read ZA
+read e8
+$$

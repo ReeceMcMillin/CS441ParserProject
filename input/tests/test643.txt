@@ -1,0 +1,3 @@
+read gK
+read R
+$$

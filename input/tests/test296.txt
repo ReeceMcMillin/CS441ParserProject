@@ -1,0 +1,6 @@
+read v8
+write e7 / (Ea) + O
+write Kw / UW
+J := g
+o9 := 69
+$$

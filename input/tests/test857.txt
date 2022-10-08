@@ -1,0 +1,5 @@
+write Gh / 9. / ((bY)) + 1.86
+read K4
+write xO + 3
+read N2
+$$

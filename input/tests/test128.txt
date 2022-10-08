@@ -1,0 +1,4 @@
+write 7.8
+read z4
+SW := 04
+$$

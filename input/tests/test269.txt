@@ -1,0 +1,4 @@
+write ((Ix) - 81 / L)
+q := o
+read P8
+$$

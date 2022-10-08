@@ -1,0 +1,5 @@
+write T + 5.81 * f0
+read XH
+write L
+read U5
+$$

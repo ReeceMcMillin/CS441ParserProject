@@ -1,0 +1,7 @@
+read A5
+read sp
+read Lt
+read Li
+F := r0
+read k
+$$

@@ -1,0 +1,5 @@
+write w / (x1)
+read nl
+write (7 * .5)
+read WF
+$$

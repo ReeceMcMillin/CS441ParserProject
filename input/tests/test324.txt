@@ -1,0 +1,5 @@
+read v
+read y
+write (Ka) + 848 + 8
+write 4
+$$

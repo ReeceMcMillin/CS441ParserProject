@@ -1,0 +1,7 @@
+read m
+read MU
+read E
+read n
+read b
+read x
+$$

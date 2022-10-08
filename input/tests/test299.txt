@@ -1,0 +1,5 @@
+write (x)
+read mE
+read g
+write B6
+$$

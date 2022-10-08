@@ -1,0 +1,5 @@
+read w9
+read vs
+write F
+write 396. - 2 + 87
+$$

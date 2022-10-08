@@ -1,0 +1,5 @@
+read T
+read F6
+zo := d
+read M
+$$

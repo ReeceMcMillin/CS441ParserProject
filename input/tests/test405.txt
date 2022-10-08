@@ -1,0 +1,6 @@
+yV := (Z3) / N0 * F1 / m
+write 17
+eP := 5
+read Z
+write 5.33 / sW / .9 / J / T
+$$

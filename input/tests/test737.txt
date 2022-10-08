@@ -1,0 +1,3 @@
+write 939.6
+read fQ
+$$

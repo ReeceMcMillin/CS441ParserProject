@@ -1,0 +1,6 @@
+write Z + (.083)
+C8 := Kn / 0 - .9 + r1
+read e
+write f
+read k0
+$$

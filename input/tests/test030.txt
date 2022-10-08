@@ -1,0 +1,3 @@
+write X4
+read f
+$$

@@ -1,0 +1,5 @@
+read UV
+write Ms
+EN := .42 + T1 * (1) - 80
+iO := ky / 90
+$$

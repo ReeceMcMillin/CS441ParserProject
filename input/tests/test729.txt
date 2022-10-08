@@ -1,0 +1,4 @@
+read b
+write n
+write (2. * 3 + (647.676))
+$$

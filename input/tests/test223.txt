@@ -1,0 +1,4 @@
+px := (BB * t0) + rw
+read f1
+write h * 9.
+$$

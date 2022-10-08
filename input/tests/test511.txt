@@ -1,0 +1,5 @@
+write 3 / rO
+G := gS
+read VC
+write 9
+$$

@@ -1,0 +1,4 @@
+read L
+oi := 74
+read qt
+$$

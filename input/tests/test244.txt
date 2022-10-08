@@ -1,0 +1,7 @@
+write et / U / 23 / o
+read j5
+n := 3
+read C
+yY := P / c - 5 + 8 + yj
+read F8
+$$

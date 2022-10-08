@@ -1,0 +1,5 @@
+write P0
+E := PK + uB * (.7)
+read T
+Q := 62.6109
+$$

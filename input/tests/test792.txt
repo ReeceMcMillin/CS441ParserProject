@@ -1,0 +1,6 @@
+write DQ + w
+read l
+read s
+p0 := (q5 / 4.) / YH / i
+read h
+$$

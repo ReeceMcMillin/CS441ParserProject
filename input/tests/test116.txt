@@ -1,0 +1,6 @@
+write x + t1
+write P / (cZ) + 6
+read Y2
+write 9356. / (3)
+read fk
+$$

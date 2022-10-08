@@ -1,0 +1,4 @@
+read Z
+jX := i / I * zt - 73902.0309
+write 0 * o
+$$

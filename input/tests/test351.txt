@@ -1,0 +1,4 @@
+write .2
+N := (43. * mG - ((c4)) * GW / .3) * z
+read Mk
+$$

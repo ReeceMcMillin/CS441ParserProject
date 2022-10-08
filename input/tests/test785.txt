@@ -1,0 +1,4 @@
+read T
+read a
+read Bd
+$$

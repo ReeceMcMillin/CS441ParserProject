@@ -1,0 +1,5 @@
+write E
+write 155.21 / y7 - t
+write fB
+read ZA
+$$

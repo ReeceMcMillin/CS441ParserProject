@@ -1,0 +1,3 @@
+sG := 2 * m2 * i * .24 * mT
+write (cz / Q) * w + OY
+$$

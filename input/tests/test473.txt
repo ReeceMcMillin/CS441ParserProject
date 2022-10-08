@@ -1,0 +1,6 @@
+read R8
+write iF - ((36) / Mg / h3)
+read gj
+read m
+write 4401 * 0 / ((g3 * lJ))
+$$

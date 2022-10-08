@@ -1,0 +1,5 @@
+read C9
+read kV
+read s6
+write G0
+$$

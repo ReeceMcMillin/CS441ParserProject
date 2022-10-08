@@ -1,0 +1,5 @@
+write Rz / .8
+write 12307.3
+y9 := E
+read Y9
+$$

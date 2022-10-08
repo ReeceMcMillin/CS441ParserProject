@@ -1,0 +1,6 @@
+rP := y7 + xd / H1 / (v) * 0782 + 8 * 7 - pd
+read Z
+read yy
+read fP
+read d9
+$$

@@ -1,0 +1,4 @@
+read G3
+write 4 + c7
+read q
+$$

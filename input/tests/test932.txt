@@ -1,0 +1,7 @@
+read D9
+read x0
+read f
+read S
+read E
+read v
+$$

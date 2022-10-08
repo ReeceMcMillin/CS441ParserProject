@@ -1,0 +1,3 @@
+read W6
+read f1
+$$

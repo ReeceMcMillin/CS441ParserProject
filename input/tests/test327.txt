@@ -1,0 +1,6 @@
+read KI
+read qE
+read PY
+read vo
+read eR
+$$

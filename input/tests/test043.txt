@@ -1,0 +1,4 @@
+read iN
+read uM
+read DQ
+$$

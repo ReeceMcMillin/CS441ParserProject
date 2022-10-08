@@ -1,0 +1,4 @@
+read a2
+write 3 / iI
+write Mi * (50073 * G - (4.) + e) + 885.3 + J6
+$$

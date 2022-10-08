@@ -1,0 +1,5 @@
+write (jx / (A1))
+read S
+read vQ
+read z
+$$

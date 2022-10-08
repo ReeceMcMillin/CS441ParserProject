@@ -1,0 +1,4 @@
+write Og + Li * I6
+read SL
+write 7 / 9 * 51. * E4
+$$

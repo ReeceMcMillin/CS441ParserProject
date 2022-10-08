@@ -1,0 +1,3 @@
+read X7
+write Ex
+$$

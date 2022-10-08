@@ -1,0 +1,4 @@
+write 8
+write r * a / l7 + l
+read e
+$$

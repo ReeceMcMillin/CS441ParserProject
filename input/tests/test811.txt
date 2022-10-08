@@ -1,0 +1,5 @@
+write 6.3 * 6.65
+read b
+I0 := h3
+read C4
+$$

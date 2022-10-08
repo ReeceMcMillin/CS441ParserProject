@@ -1,0 +1,3 @@
+read cv
+write t
+$$

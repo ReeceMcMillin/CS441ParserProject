@@ -1,0 +1,6 @@
+F3 := Px - X + 6725. + 27.4
+write (558.24) + S6
+read s
+write 8
+write .92 + .9 + r1
+$$

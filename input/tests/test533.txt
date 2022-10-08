@@ -1,0 +1,4 @@
+read J5
+write 0.
+l := KM * iS + 341404.5
+$$

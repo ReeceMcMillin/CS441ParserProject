@@ -1,0 +1,6 @@
+a5 := (.6 / LU - h2 - U + F / A) / rH * 8
+read lq
+read C1
+read z9
+read F4
+$$

@@ -1,0 +1,3 @@
+write .295 + N
+read z7
+$$

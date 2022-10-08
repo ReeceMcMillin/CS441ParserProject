@@ -1,0 +1,5 @@
+read C
+AN := 7
+write (E / UB + UF - .8) / 738
+read Zw
+$$

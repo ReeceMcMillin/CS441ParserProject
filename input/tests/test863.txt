@@ -1,0 +1,3 @@
+read l
+write 44
+$$

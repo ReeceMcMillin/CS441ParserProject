@@ -1,0 +1,5 @@
+write 1. / Fo
+write s
+read G4
+read b4
+$$

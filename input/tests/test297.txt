@@ -1,0 +1,7 @@
+write ((M1)) * 50. / 9818.4 - Q9 + 404.
+read v
+read g
+read bE
+write 2
+read Jh
+$$

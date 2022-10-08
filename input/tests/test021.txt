@@ -1,0 +1,3 @@
+write A - 29.91
+read Y
+$$

@@ -1,0 +1,4 @@
+w2 := 3
+read s2
+read c
+$$

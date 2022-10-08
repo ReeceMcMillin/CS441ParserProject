@@ -1,0 +1,4 @@
+read Mb
+write M * 4.853491
+write (3) - 472 * op * 1
+$$

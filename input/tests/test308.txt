@@ -1,0 +1,4 @@
+j8 := 7. * YD - 14
+read Vv
+write PM + Z
+$$

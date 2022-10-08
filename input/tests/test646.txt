@@ -1,0 +1,5 @@
+i := 8.920
+write n8
+Q2 := U + (A1) * n
+read o0
+$$

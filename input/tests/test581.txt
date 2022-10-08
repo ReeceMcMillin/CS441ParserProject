@@ -1,0 +1,5 @@
+bJ := (.1 * mC)
+read V5
+sz := 547.71116 * 6 + 5 * un / a * (p * QI / dd) / (J1)
+read Q8
+$$

@@ -1,0 +1,3 @@
+read j2
+write 0.2 * a6
+$$

@@ -1,0 +1,7 @@
+write l4 * 45
+Ax := 4.8 / 2.503
+read eX
+read k9
+yg := (0) * Pn
+P4 := (X4)
+$$

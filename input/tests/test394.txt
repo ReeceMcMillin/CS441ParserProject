@@ -1,0 +1,6 @@
+h4 := ((b - F7) + 2) * d2
+read R2
+read T2
+S3 := .0
+write 2
+$$

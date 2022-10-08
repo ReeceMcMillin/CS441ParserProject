@@ -1,0 +1,4 @@
+write y
+S7 := .0 / .7 / 24 * cF
+read b2
+$$

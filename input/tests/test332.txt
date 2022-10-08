@@ -1,0 +1,6 @@
+read L9
+write Je / 49.26 - n - z3
+write o
+e := 6. / 6
+read Xr
+$$

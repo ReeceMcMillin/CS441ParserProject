@@ -1,0 +1,4 @@
+read I4
+read s6
+gi := (12.) * J
+$$

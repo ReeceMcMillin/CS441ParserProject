@@ -1,0 +1,4 @@
+p := s
+read I
+read JE
+$$

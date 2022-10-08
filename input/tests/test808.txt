@@ -1,0 +1,4 @@
+read e
+read Dj
+Q := (9. / H9)
+$$

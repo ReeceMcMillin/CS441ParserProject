@@ -1,0 +1,4 @@
+read fr
+read z7
+mN := (0 * n + Oe + 7)
+$$

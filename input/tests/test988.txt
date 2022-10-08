@@ -1,0 +1,6 @@
+write 84.97
+write A
+read T
+read B8
+read O8
+$$

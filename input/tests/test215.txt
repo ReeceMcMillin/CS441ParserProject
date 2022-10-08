@@ -1,0 +1,4 @@
+write (Sg) / 7. + (67.8) * n - ((L) * 15.6)
+write 711
+write Me * G1
+$$

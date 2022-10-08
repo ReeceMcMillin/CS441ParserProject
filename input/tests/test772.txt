@@ -1,0 +1,4 @@
+cm := f9
+write DI + 7 + ((gj - T)) / Nj * F9 - 3308169. / 4.
+read c9
+$$

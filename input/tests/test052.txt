@@ -1,0 +1,5 @@
+Z := x + .8
+read F
+read C8
+write (5 * r) + (57.)
+$$

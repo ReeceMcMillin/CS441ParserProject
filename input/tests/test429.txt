@@ -1,0 +1,5 @@
+write 9 * U
+Gd := gb
+write b7 / U9
+read jm
+$$

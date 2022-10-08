@@ -1,0 +1,4 @@
+write 2.2 + (B - 7.6763) * 61
+read Ew
+read ft
+$$

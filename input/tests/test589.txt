@@ -1,0 +1,5 @@
+read WX
+read lk
+write L / 3 / .2 + Y7 + q0
+write 95.25
+$$

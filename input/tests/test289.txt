@@ -1,0 +1,6 @@
+read a3
+read W2
+Mf := e9 * HZ * Y
+write uq
+read E4
+$$

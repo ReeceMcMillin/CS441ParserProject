@@ -1,0 +1,4 @@
+write (gz / (5))
+J := H8 - sf + Pk
+read NI
+$$

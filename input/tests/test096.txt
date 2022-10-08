@@ -1,0 +1,5 @@
+read b0
+read TD
+read i
+read DC
+$$

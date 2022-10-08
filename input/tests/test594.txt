@@ -1,0 +1,5 @@
+read T8
+write 4.9
+K0 := (df) / 7. - 97 / eu
+read k4
+$$

@@ -1,0 +1,6 @@
+write 90 + (y9 * 2) / d / 74 - 48
+read p0
+read Do
+K := wT / u6 / (8.) - s
+write (y) - OS
+$$

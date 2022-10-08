@@ -1,0 +1,3 @@
+read s
+write 0 - n
+$$

@@ -1,0 +1,4 @@
+Zt := W / a4 + 4
+read D
+read di
+$$

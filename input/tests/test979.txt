@@ -1,0 +1,5 @@
+HU := k3 * 71 * S3 + (Nk) * Cm - 7 / 9.1594 - Li + 10.3 / JC
+write 54.2 * 82
+write 6.72
+read v8
+$$

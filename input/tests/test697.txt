@@ -1,0 +1,5 @@
+write WH + (429) / C9 * EW + 2 / s
+by := (L)
+v := fP
+write i
+$$

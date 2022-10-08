@@ -1,0 +1,4 @@
+O3 := 8 - O / lB * 8 - o9
+write .8
+write 0
+$$

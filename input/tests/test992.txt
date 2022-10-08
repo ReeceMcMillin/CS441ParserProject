@@ -1,0 +1,6 @@
+write 0 / (945)
+read Ex
+w := e / Q2
+write (866894)
+write 781
+$$

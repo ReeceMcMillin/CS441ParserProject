@@ -1,0 +1,3 @@
+write Sm
+read q
+$$

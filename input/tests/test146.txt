@@ -1,0 +1,5 @@
+write 1 - 44
+write 0 * uz
+read u4
+read p
+$$

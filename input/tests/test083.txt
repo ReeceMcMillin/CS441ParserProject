@@ -1,0 +1,4 @@
+read l
+write 8 * 73 + (x4 * 4)
+read bR
+$$

@@ -1,0 +1,3 @@
+write 3817.78 + 2 * f + e
+read BC
+$$

@@ -1,0 +1,5 @@
+write l2 - i3 / kw / (34589 + 2.069)
+read g4
+write FA * .7
+read S
+$$

@@ -1,0 +1,8 @@
+read f4
+read dI
+read CO
+read n1
+write 046 * (k + .9)
+read G5
+n := 9.8
+$$

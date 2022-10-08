@@ -1,0 +1,5 @@
+write B / 6.552 * E1
+write e2 - 980189
+write Hg * 8
+read F
+$$

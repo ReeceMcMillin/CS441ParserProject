@@ -1,0 +1,5 @@
+u := 06.18
+read uM
+write g5 - .6
+read O6
+$$

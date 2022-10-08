@@ -1,0 +1,4 @@
+read R8
+Vy := Lz - (yG * A * U + 0)
+Y7 := 439 - Z4 * gy + l4 * M - R / i1
+$$

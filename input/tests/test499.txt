@@ -1,0 +1,4 @@
+read N2
+write 0. + (M4 / 914)
+write B7
+$$

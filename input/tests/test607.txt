@@ -1,0 +1,4 @@
+cI := 909
+read I0
+read qT
+$$

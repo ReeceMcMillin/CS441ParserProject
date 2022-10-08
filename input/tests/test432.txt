@@ -1,0 +1,5 @@
+write .1757
+write 0 - (7)
+write OK
+q := 36680
+$$

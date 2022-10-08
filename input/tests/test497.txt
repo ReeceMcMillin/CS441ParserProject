@@ -1,0 +1,4 @@
+read RT
+ii := sr
+read Sf
+$$

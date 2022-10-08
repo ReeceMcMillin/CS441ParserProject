@@ -1,0 +1,7 @@
+write .3 + 1 * Ov - 87. - 0.062
+Gj := 73. - ((Z))
+O := .6
+j := h * 0
+write A - h
+read W
+$$

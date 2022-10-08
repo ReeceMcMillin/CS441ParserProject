@@ -1,0 +1,4 @@
+write (2.0 * x)
+read Q3
+read L6
+$$

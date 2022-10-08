@@ -1,0 +1,3 @@
+read N
+write H / j9 * 69.636
+$$

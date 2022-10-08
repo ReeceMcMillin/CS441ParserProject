@@ -1,0 +1,7 @@
+write 056 + (G / 8.3 - 36)
+read m
+read MV
+y := x * 86. / (((XQ - s + 11 * BJ)))
+read S
+read wJ
+$$

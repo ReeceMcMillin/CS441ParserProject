@@ -1,0 +1,6 @@
+read E
+read R8
+read R6
+read g9
+write ca + U + ZD + .78 * Z5
+$$

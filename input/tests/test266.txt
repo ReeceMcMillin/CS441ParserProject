@@ -1,0 +1,6 @@
+write 6
+write (382. * 6572 - f8)
+read BW
+Se := (g) * 7040 * (.3) / 67.9 + k6
+fM := j - IK
+$$

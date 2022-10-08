@@ -1,0 +1,4 @@
+p := ((d3))
+read r
+read X1
+$$

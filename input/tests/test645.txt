@@ -1,0 +1,4 @@
+read zA
+write l4 * Dk / a - k4 / YR + 281
+read i
+$$

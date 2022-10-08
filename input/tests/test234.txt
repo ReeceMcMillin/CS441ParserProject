@@ -1,0 +1,5 @@
+read p0
+read Tt
+c := jI
+read Hd
+$$

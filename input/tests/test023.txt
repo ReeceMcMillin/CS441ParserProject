@@ -1,0 +1,5 @@
+write (o7 - 99) * 1 / 7
+read QP
+read Kp
+read mN
+$$

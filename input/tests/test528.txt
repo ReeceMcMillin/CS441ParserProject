@@ -1,0 +1,4 @@
+write M1 - 580. * (tM)
+write (e) - (Z) + V
+write C8 / 3 - o0
+$$

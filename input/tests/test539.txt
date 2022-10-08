@@ -1,0 +1,7 @@
+write (h0 + 25.3)
+SM := t7
+s := .429 * O
+h := P * 406.5 / k
+n := IT
+read sT
+$$

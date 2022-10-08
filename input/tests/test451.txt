@@ -1,0 +1,4 @@
+read ZK
+read h2
+write uC - Fu / c * RJ - (ut / eG / N5) * 92.1
+$$

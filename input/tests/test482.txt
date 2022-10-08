@@ -1,0 +1,6 @@
+write (0 + MU) + 61.
+C6 := .6
+read K1
+write 01.
+read a
+$$

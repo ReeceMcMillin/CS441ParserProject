@@ -1,0 +1,5 @@
+read W9
+Kg := ((i8 - .9) * (iD)) - 5
+read n2
+write 1
+$$

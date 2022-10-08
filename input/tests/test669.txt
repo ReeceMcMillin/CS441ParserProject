@@ -1,0 +1,4 @@
+write (bl - Q)
+write (aU)
+write (Q2)
+$$

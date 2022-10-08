@@ -1,0 +1,6 @@
+read I
+b := (.477 / K5 / (219) / (C4))
+read m2
+write 83
+read mA
+$$

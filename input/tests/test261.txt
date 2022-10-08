@@ -1,0 +1,6 @@
+read wR
+g := ho / Y8 + 3. + az
+read w0
+read Y5
+G := 9.63 - k6
+$$

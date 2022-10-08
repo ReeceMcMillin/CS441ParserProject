@@ -1,0 +1,5 @@
+write 2 + a3 * 7 - ((1 / r) - (6.02)) * p
+write e1 - c0 * (T2 * i)
+write (((F))) / k + h - B * 19.
+ZM := .7 / qS
+$$

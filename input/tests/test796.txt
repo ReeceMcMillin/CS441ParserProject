@@ -1,0 +1,7 @@
+read J1
+write ((d6) / f8 + 5821) * .96 * D7 - 6473
+u3 := dG
+read B3
+read x
+rn := c6 + 410 * 97 * G4
+$$

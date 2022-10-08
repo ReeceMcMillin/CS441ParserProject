@@ -1,0 +1,4 @@
+read WN
+write 0110.7
+gb := .6 - E / b
+$$

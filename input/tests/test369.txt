@@ -1,0 +1,3 @@
+read C
+write (a9)
+$$

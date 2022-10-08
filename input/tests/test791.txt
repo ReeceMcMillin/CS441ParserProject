@@ -1,0 +1,4 @@
+write P + a
+read UC
+write 2 - (I4)
+$$

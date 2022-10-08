@@ -1,0 +1,5 @@
+read DX
+read H7
+read b
+read dI
+$$

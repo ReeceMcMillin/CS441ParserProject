@@ -1,0 +1,6 @@
+read j6
+read UN
+read a3
+b := 48. - M1 / 3
+read a
+$$

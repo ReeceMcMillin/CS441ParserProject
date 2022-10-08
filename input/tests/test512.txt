@@ -1,0 +1,6 @@
+m := ik
+read E4
+write O7
+read tn
+read f4
+$$

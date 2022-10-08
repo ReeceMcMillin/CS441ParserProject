@@ -1,0 +1,4 @@
+read cx
+DR := w - 7
+read G8
+$$

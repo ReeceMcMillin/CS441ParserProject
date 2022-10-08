@@ -1,0 +1,4 @@
+write 86.597
+read x
+read QO
+$$

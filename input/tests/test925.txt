@@ -1,0 +1,4 @@
+read X2
+S8 := f * JA
+read D2
+$$

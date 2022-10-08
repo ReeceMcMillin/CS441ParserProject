@@ -1,0 +1,4 @@
+read n
+write 2.
+write (tG) * 8009599
+$$

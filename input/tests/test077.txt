@@ -1,0 +1,6 @@
+read o
+write 72216. + 8
+read Cl
+write ZP - 2.12
+s := h8
+$$

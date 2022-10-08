@@ -1,0 +1,6 @@
+read G
+write v * 27 - 9
+read V3
+write 072350.24 + 9.2
+write 632
+$$

@@ -1,0 +1,4 @@
+write o4 / R0 * 9. / cE
+write 52
+M5 := (0)
+$$

@@ -1,0 +1,4 @@
+write (H / 1)
+write (51.01 + S3 * 5 / 586) * m1
+write NL
+$$

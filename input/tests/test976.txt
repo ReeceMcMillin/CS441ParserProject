@@ -1,0 +1,4 @@
+vh := 235
+read m
+read C
+$$

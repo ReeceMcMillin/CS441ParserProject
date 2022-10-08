@@ -1,0 +1,6 @@
+Z := (Iw)
+read V6
+o := n1 * dg - 39 / D5
+read oK
+read Q5
+$$

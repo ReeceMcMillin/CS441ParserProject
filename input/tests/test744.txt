@@ -1,0 +1,4 @@
+write N
+write (J) * Y8 / 0 - (G0 / S) / 0.3
+U6 := h2
+$$

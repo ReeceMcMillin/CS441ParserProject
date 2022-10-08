@@ -1,0 +1,5 @@
+write 1 * (mh / 6 * (cH - E - .5))
+read t
+write aI
+write (58.1) * (0.1883 * (D5) + o) - 5
+$$

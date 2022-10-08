@@ -1,0 +1,5 @@
+F := oZ / OB - ng
+read K8
+Q := 3427 * Bw * 51
+write g / 8 / 0.3
+$$

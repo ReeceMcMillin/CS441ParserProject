@@ -1,0 +1,4 @@
+write p * .73 * Q
+read SL
+read NN
+$$

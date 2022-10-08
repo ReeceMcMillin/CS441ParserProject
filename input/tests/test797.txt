@@ -1,0 +1,4 @@
+write U * C - gF / 16
+read T
+read XK
+$$

@@ -1,0 +1,5 @@
+ps := l0 - 8 / A3 - 57 + 05 / y8
+read pt
+l := R5 / W6 * m4
+read ZH
+$$

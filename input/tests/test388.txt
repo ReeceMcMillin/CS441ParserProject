@@ -1,0 +1,5 @@
+write 3 * mY * 7
+S := (982.)
+write op / (PZ + t6 / 5629 - mM)
+write 23.7 - l3
+$$

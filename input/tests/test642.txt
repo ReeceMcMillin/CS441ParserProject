@@ -1,0 +1,7 @@
+read He
+read rG
+TR := 29
+read L9
+write 3
+read WC
+$$

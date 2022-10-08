@@ -1,0 +1,8 @@
+write 8.8 + 5107.4 / Kp * (v / 47.2 + 8 - (R * g)) * (7) - 6446 * 58 + 670. - a1
+read YU
+write s9 - 3 - 66.29
+write U1
+rV := (G / 3 + 6002.4183)
+write 384
+read s
+$$

@@ -1,0 +1,5 @@
+read SZ
+p5 := (E3 * (10) * 3 - e0 * x2 / 84) - M
+read Ti
+write lu + 7 - 4470.74
+$$

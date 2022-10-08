@@ -1,0 +1,6 @@
+write X7 / 3.599 * ((5 - 20) / 35.8) + (.34173) * Mv * T9
+read GE
+write FS
+read C3
+read T
+$$

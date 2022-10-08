@@ -1,0 +1,5 @@
+PM := 2.4 * .0 * .3 * 53967 / 9
+read S
+read X
+read w
+$$

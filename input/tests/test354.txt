@@ -1,0 +1,5 @@
+write 09300.871380 + (73.) * AT
+write a * I4
+write 2
+Mi := W4
+$$

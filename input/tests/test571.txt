@@ -1,0 +1,6 @@
+read dE
+read P5
+write w - 2414
+er := 6272
+write 51.3
+$$

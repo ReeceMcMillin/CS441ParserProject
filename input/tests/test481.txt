@@ -1,0 +1,5 @@
+write f2 / W
+write (397 * b) * B8 + 0 + 2 * r4
+read Q
+write (HC * (N8) * 0.7 * hj - (js + (ay)))
+$$

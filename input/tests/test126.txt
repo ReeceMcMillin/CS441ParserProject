@@ -1,0 +1,7 @@
+write 43 / (1128 * (812))
+read VW
+write (34.) + jL
+f8 := u9
+read v
+fm := 486772 * (dU) / (((H)))
+$$

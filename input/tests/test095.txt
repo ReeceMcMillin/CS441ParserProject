@@ -1,0 +1,5 @@
+OS := K9 - fl - zM / 166.9
+write .50 / HC - bm
+write 616.
+read Ka
+$$

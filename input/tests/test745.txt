@@ -1,0 +1,5 @@
+read y
+write P * 73708 * B
+write u
+p3 := 782
+$$

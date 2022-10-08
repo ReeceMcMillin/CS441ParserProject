@@ -1,0 +1,4 @@
+write G
+read H
+read fT
+$$

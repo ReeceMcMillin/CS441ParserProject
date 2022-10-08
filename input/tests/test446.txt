@@ -1,0 +1,5 @@
+read k7
+read z0
+j5 := q - 2
+read A
+$$

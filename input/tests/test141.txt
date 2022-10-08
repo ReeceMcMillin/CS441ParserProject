@@ -1,0 +1,4 @@
+read N0
+write MX
+write j
+$$

@@ -1,0 +1,4 @@
+read BT
+write B7 / 85718. / 7 * 08. - (wJ / s5 - b)
+r := R
+$$

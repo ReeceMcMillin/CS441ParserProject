@@ -1,0 +1,6 @@
+ft := (9) * V
+write ((90.778) - 988) * ES
+read c3
+write 5 / 9351901.8
+read l3
+$$

@@ -1,0 +1,5 @@
+read R2
+rW := L / 0
+write 455 * (e - 8754 + X0)
+read D
+$$

@@ -1,0 +1,4 @@
+DO := sy - m + (079. - X0) * 3.67
+write (((B2) / (7)) * f / aY * .4) * (Yj) / ye
+read JR
+$$

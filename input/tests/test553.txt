@@ -1,0 +1,4 @@
+write e / 4.2
+read A
+read k
+$$

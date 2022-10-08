@@ -1,0 +1,7 @@
+read c
+QK := 8. + 53.3 + EK
+Z := 10.2096768
+read xP
+read I
+write M * iI + 0.
+$$

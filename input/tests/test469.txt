@@ -1,0 +1,4 @@
+read Jw
+read a
+gu := r5
+$$

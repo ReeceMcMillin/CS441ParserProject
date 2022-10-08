@@ -1,0 +1,4 @@
+gA := i / 89
+write 7830
+read N
+$$

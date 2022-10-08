@@ -1,0 +1,6 @@
+c := 916 * 1347 - Z
+write 23.2 * 8.9 / 4.9 * X
+Z8 := (a - nk / 637167969) / .42298 + D6
+read Mm
+write bX + Rt * dd - eG * M * yJ - (c3)
+$$

@@ -1,0 +1,4 @@
+write V
+write 785535.
+write 6
+$$

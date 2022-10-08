@@ -62,10 +62,21 @@
                                          (make-list (srcloc-span loc) #\↓))))
   (define underline (list->string (append (make-list (srcloc-column loc) #\space)
                                           (make-list (srcloc-span loc) #\↑))))
-  (failure (string-append* (parse-error->string err)
-                           (list "\n\n"
-                                 (number->string (- line-no 1)) " | " (list-ref lines (- line-no 2)) "\n"
-                                 "  ⋮ " overline "\n"
-                                 (number->string line-no) " | " error-line "\n"
-                                 "  ⋮ " underline "\n"
-                                 (number->string (+ line-no 1)) " | " (list-ref lines line-no) "\n"))))
+  ;;; (printf "error line = ~a~n" line-no)
+  ;;; (printf "num lines = ~a~n" (length lines))
+
+  (if (eq? line-no 1)
+      (failure (string-append* (parse-error->string err)
+                               (list "\n\n"
+                                     "    " overline "\n"
+                                     (number->string (- line-no 1)) " | " error-line "\n"
+                                     "  ⋮ " underline "\n"
+                                     (number->string (+ line-no 1)) " | " (list-ref lines line-no) "\n")))
+
+      (failure (string-append* (parse-error->string err)
+                               (list "\n\n"
+                                     (number->string (- line-no 1)) " | " (list-ref lines (- line-no 2)) "\n"
+                                     "  ⋮ " overline "\n"
+                                     (number->string line-no) " | " error-line "\n"
+                                     "  ⋮ " underline "\n"
+                                     (number->string (+ line-no 1)) " | " (list-ref lines line-no) "\n")))))

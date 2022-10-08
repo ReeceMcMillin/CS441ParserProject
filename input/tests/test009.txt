@@ -1,0 +1,5 @@
+write u4
+write 7.6 + m
+write 9 * D8 * 2.4
+write 99.0
+$$

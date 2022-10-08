@@ -1,0 +1,8 @@
+read o1
+write sK / D3 - 87.45 + e
+write (DP) / s + q + G / I2 * S8 / g3
+read R2
+read o7
+T2 := 3 + t
+h := 1.905
+$$

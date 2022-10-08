@@ -1,0 +1,4 @@
+write Q - .35 + UQ / 566.2
+read H1
+write W - P0
+$$

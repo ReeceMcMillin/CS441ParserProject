@@ -41,6 +41,20 @@
 (define write/p
   (buffer-spaces/p (list/p (string/p "write") (char/p #\space))))
 
+(define float/p
+  (do [left <- (many/p integer/p)]
+    (char/p #\.)
+    [right <- (many/p integer/p)]
+    (pure (cons left right))))
+
+(define number/p
+  (or/p (try/p (guard/p float/p
+                        (lambda (pair) (not (and (empty? (car pair))
+                                                 (empty? (cdr pair)))))
+                        "valid floating point number" ; expected
+                        (lambda (x) ".")))            ; unexpected
+        integer/p))
+
 ;;; Identifier rules:
 ;;; - Must lead with either:
 ;;;     - a letter
@@ -64,7 +78,7 @@
                  (string/p ")")
                  (pure (factor expr))))
         identifier/p
-        integer/p ))
+        number/p))
 
 ;;; factor_tail -> mult_op factor factor_tail | epsilon
 (define factor-tail/p
@@ -113,8 +127,8 @@
     (pure (write expr))))
 
 (define statement/p
-  (or/p read-id/p
-        write-expr/p
+  (or/p (try/p read-id/p)
+        (try/p write-expr/p)
         declaration/p))
 
 (define statement-list/p
@@ -130,7 +144,6 @@
     (pure stmt-list)))
 
 (define (parse filename)
-  ;;; (parse-string add-op/p "+"))
   (define file (open-input-file filename))
   (define input (port->string file))
   (define lines (port->lines (open-input-file filename)))

@@ -1,0 +1,5 @@
+write p1 / (hl * o + (8 - 005)) * (99)
+write A
+v := (i + Mk * 58) / 88
+read r1
+$$

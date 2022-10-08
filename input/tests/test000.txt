@@ -1,0 +1,5 @@
+read GW
+write D0
+p8 := 8.6
+write Y9 - O
+$$

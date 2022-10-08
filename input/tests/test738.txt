@@ -1,0 +1,5 @@
+write 0. / SX
+F := 2.75408
+read Hv
+write (016.31) - .9
+$$

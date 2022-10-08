@@ -1,0 +1,3 @@
+write (C / P1 * LW) * G1 + 00 * k5
+write ((b0))
+$$

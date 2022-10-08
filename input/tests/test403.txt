@@ -1,0 +1,3 @@
+write 2. + Fd / w8 / 0 / Mz * U + w3 - m
+read K
+$$

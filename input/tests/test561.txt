@@ -1,0 +1,4 @@
+read uS
+read wO
+read ka
+$$

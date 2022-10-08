@@ -1,0 +1,4 @@
+write .6 * C8 + Eu + x9
+VV := ur - j3 + Mo
+read cm
+$$

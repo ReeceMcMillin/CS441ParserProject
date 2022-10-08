@@ -1,0 +1,5 @@
+read U
+write P / 8.16 * E0
+write 7.4 * r6 / K5
+E4 := s
+$$

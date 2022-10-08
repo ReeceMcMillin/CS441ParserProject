@@ -1,0 +1,4 @@
+write 2.
+read Hn
+write 9.2 + G2 / .7 * ((822. / 3 + vx) / F * rz) * 0.
+$$

@@ -1,0 +1,5 @@
+read T6
+n6 := U / 43 * ke
+write d6
+write .30
+$$

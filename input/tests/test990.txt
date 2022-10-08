@@ -1,0 +1,5 @@
+write CS / 2785
+write m / H - (984 * 25.) + z1
+read n6
+read yt
+$$

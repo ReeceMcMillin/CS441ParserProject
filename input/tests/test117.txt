@@ -1,0 +1,5 @@
+write (i)
+read P
+read s
+read M
+$$

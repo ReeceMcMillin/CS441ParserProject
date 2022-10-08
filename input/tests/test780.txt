@@ -1,0 +1,3 @@
+write O0
+read y
+$$

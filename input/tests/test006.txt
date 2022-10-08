@@ -1,0 +1,7 @@
+write Fv / (9 * (1) / x2)
+write 555.03 * (9)
+x := s - 1 * (y5)
+Me := (yk * 68) * 9854
+write 5
+read H
+$$

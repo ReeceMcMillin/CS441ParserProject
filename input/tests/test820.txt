@@ -1,0 +1,7 @@
+read B7
+write G2 - .4
+PM := 96 / 3.7
+write (bi)
+read fA
+write X - w8
+$$

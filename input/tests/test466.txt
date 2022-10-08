@@ -1,0 +1,5 @@
+L := .36
+write ((TY) + (e0 * (s5)) * (gl)) - KS
+write (xR) / cL * uW
+write p
+$$

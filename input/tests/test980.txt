@@ -1,0 +1,4 @@
+read l
+read C
+read r2
+$$

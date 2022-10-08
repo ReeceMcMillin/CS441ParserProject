@@ -1,0 +1,5 @@
+read n
+write 3 + .4
+write xL * lF + .0
+write 80 * q7 / q1 / .7
+$$

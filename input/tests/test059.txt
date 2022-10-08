@@ -1,0 +1,5 @@
+write L2 + y / 46
+read Pi
+E8 := 5 / (j5 + 3)
+Fn := 3
+$$

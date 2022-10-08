@@ -1,0 +1,3 @@
+read v
+write (39 * ((U * D5))) - XQ * 3
+$$

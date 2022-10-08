@@ -1,0 +1,5 @@
+write (.483) - I8
+read Bc
+write od * b4 * J / me * 0 + 6
+Ni := I + (e8 * K)
+$$

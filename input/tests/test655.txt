@@ -1,0 +1,4 @@
+write a9 / 95716
+read B7
+write F
+$$

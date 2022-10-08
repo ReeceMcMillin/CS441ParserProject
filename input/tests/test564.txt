@@ -1,0 +1,3 @@
+write 54.6 - bC - (T / L3 * W)
+write 415
+$$

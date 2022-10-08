@@ -1,0 +1,4 @@
+CC := (xA) * 65.9 * A
+read k
+read u3
+$$

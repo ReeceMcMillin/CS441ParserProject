@@ -1,0 +1,5 @@
+L := 7 - UA
+z2 := R5 / 36900
+read Zc
+write 55
+$$

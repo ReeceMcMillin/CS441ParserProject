@@ -1,0 +1,8 @@
+read f0
+write (076) - 0
+nM := (o - 182.) * 9 * (Bk * CE / i)
+read q
+Sa := q / 17 * (69.0)
+read d
+write M
+$$

@@ -1,0 +1,6 @@
+write X2 / 567.591
+b1 := g * P - 1 / 692 + nR
+write 3 / v5 - sL
+pE := (1)
+read Vm
+$$

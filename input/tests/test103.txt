@@ -1,0 +1,4 @@
+read ep
+read Jd
+write .58
+$$

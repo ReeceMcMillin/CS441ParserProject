@@ -1,0 +1,5 @@
+write 2 - b2 * K - 3
+read l
+write (zJ + .4 / bH)
+write 95.1
+$$

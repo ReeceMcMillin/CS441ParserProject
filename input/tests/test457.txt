@@ -1,0 +1,3 @@
+write 47.31
+write F
+$$

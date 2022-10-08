@@ -1,0 +1,3 @@
+read U
+write (R0)
+$$

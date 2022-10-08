@@ -1,0 +1,4 @@
+write (92) / Yz
+read p
+write xv
+$$

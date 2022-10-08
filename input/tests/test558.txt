@@ -1,0 +1,3 @@
+read q0
+read hD
+$$

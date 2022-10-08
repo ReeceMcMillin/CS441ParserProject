@@ -1,0 +1,6 @@
+fa := 2. / 0.05 / 6
+read Xb
+f := qx - 6 / Z9
+write 1 / z
+read wm
+$$

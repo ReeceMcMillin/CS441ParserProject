@@ -1,0 +1,5 @@
+read Q2
+read wX
+C := r4 + qf / L
+write 3. / qG - ((6 / pN) / 2 / (O * V / 0.3)) - 33
+$$

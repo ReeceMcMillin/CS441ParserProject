@@ -1,0 +1,5 @@
+write 4.5 + d9 + ((J1 - ac - 9.) / 87861.) - p
+g := 7.
+read u6
+read v
+$$

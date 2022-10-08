@@ -1,0 +1,7 @@
+Wu := xN / 6.043 - S - N
+read x
+read J4
+read DU
+Q := 0.7 + (786.2 / 782 * x6 * 9.4 * 04.0)
+write (.5)
+$$

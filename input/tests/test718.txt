@@ -1,0 +1,4 @@
+write Um / (9)
+write 8.95
+dD := Of + (6) / (bd)
+$$

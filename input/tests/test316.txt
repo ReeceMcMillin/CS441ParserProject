@@ -1,0 +1,3 @@
+write (i1) + (o) * a
+read RS
+$$

@@ -1,0 +1,4 @@
+i := 676.51
+write C8 - R
+write (G * S7) + Ka
+$$

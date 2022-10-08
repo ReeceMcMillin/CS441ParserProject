@@ -1,0 +1,4 @@
+write .787 - A
+write .33
+HZ := (nW)
+$$

@@ -1,0 +1,5 @@
+read OF
+read Yp
+Nu := 19
+read A0
+$$

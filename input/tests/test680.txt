@@ -1,0 +1,4 @@
+read T5
+read T0
+read xG
+$$

@@ -1,0 +1,5 @@
+read Y2
+write 8.0 / (Jh)
+read d0
+read Q6
+$$

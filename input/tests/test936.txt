@@ -1,0 +1,5 @@
+write (.29840601 + i - 9) / 4.79
+write V3
+read u
+Z := G9 * (e / (T)) / o3
+$$

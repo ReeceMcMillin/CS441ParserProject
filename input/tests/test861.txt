@@ -1,0 +1,4 @@
+read fP
+R := .0 * 517.16 + ww / l8 + I8
+write (K / t2) - E * Ng
+$$

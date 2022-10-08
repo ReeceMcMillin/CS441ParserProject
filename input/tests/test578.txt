@@ -1,0 +1,4 @@
+write k4 * M3 - w0 * (vT) * b
+write TL * s - V
+read JF
+$$

@@ -1,0 +1,4 @@
+write uK + (7 / .6012 / K) * f / M / 8.
+read w6
+read G
+$$

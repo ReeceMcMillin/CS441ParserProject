@@ -1,0 +1,3 @@
+read DV
+write v * u9 / 89370
+$$

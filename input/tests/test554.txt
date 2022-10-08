@@ -1,0 +1,5 @@
+write r0 / j
+mW := (p) / E3
+hN := (Q) * .61
+read Ne
+$$

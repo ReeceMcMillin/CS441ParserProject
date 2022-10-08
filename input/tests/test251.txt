@@ -1,0 +1,6 @@
+D := V * ((64)) + U - FO * .330
+read qb
+W := Db
+read X8
+read G5
+$$

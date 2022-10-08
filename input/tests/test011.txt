@@ -1,0 +1,4 @@
+read EQ
+write m
+write 83 + .7
+$$

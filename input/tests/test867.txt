@@ -1,0 +1,4 @@
+write 4
+read dM
+B := 04
+$$

@@ -1,0 +1,4 @@
+read c
+read C5
+write M3 / BM
+$$

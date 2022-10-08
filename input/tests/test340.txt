@@ -1,0 +1,5 @@
+write J5 - b - 4 / D * 44 / 7 + (7.62)
+j := q1 / (4 + 218 + hN - 9.)
+read AS
+write Y3
+$$

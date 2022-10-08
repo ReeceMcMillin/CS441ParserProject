@@ -1,0 +1,4 @@
+read r1
+read J
+write (831) * u4 * 0.
+$$

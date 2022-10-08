@@ -1,0 +1,6 @@
+t := 8. - Z8
+e := .8 * 5
+read LE
+write ((8. * (D))) / ER
+read j1
+$$

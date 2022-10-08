@@ -1,0 +1,4 @@
+write (0110 / tt + (1.922200) * Lg - MK / m * i) + d
+read t0
+read gd
+$$

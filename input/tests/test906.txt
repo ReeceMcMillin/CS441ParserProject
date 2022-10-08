@@ -1,0 +1,5 @@
+read I
+read rb
+write ((4.8) + P9 * g2)
+read F
+$$

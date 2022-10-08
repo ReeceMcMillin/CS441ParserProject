@@ -1,0 +1,6 @@
+write (3.699 - 0. * (36437.) - 90) + q
+write 8
+read nE
+write 3098.29
+read X
+$$

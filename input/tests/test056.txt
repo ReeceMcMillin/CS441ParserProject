@@ -1,0 +1,3 @@
+read GZ
+Ow := (BA)
+$$

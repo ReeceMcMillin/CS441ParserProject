@@ -1,0 +1,3 @@
+read K
+write vU - Q - gn * uK * (5 * 80) - 9
+$$

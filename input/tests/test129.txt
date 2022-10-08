@@ -1,0 +1,4 @@
+read i
+m := .5 / k0
+write .356 / p - (T) * rG * eJ
+$$

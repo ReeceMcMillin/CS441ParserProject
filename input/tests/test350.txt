@@ -1,0 +1,5 @@
+write 78
+read Up
+read L
+write 89 - .5653290 + .9 - zG
+$$

@@ -1,0 +1,5 @@
+read LW
+write (c / .58 + .6)
+Ib := 83873849
+write 34.1
+$$

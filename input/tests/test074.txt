@@ -1,0 +1,6 @@
+pq := 54 * (8339. / uR - 1 * eh) + ((W9 + d8) * gG)
+write y1
+write dj / R6
+NE := e9 * N8
+write B0 + tO
+$$

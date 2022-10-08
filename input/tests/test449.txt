@@ -1,0 +1,5 @@
+write (F * 0) + ZE * ou / t * 8.21321 / 3147.27
+read dH
+write rE / 0
+read i
+$$

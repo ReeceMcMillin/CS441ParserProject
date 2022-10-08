@@ -1,0 +1,4 @@
+write l * D5 + 2 + J5
+m := 1.359 * i1 * 31
+write (h7 - H6 - sd)
+$$

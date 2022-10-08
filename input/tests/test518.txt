@@ -1,0 +1,5 @@
+read pi
+write 01
+read H
+read d
+$$

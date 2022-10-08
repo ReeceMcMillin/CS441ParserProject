@@ -1,0 +1,3 @@
+write L * .01 * 3.24 * I - b
+write R7 / 0
+$$

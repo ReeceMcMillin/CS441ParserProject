@@ -1,0 +1,4 @@
+write z
+write FD
+E7 := y5 / 0.
+$$

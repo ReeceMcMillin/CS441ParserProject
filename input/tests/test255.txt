@@ -1,0 +1,5 @@
+write 24 + y + a
+read Cu
+m6 := 565.
+read O
+$$

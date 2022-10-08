@@ -1,0 +1,4 @@
+write (us - nS) * A
+U2 := 4
+read c9
+$$

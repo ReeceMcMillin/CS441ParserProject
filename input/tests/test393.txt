@@ -1,0 +1,5 @@
+read vl
+write 07.7 * X - (AM * E + O2) + W + (tx * zZ * nu) + 40 + dz / (X3) - 4
+read X8
+read q0
+$$

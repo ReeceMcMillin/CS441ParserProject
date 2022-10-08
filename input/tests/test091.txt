@@ -1,0 +1,8 @@
+write (6.6 + 9 - J6 * .253) * Id
+Cu := .84 + U
+Fs := y * 3.75 / jK * 79
+read F
+read W
+write 49 * L3 / 4
+read g6
+$$

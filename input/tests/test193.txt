@@ -1,0 +1,7 @@
+read R0
+write 45.6 + 5
+X0 := 56609.137
+read K
+write FJ + (72.)
+write 3594
+$$

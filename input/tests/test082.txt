@@ -1,0 +1,3 @@
+write (5 - LB) / VP * R3
+read i
+$$

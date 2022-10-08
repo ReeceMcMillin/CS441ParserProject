@@ -1,0 +1,4 @@
+read P
+s := 0
+write (s4) - x
+$$

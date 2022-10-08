@@ -1,0 +1,7 @@
+write 218.95341 - 9. - 4181 * Sa + .9
+write S1 / 5.531 + E4
+k3 := M - 1.6
+write A7
+write 46
+write 30
+$$

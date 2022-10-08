@@ -1,0 +1,6 @@
+read V
+write 5.4647
+UL := 555.0 * jF / 987 / ZN
+write i6 / c6 - B5
+write 3381.628218425
+$$

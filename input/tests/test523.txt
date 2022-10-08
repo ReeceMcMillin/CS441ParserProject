@@ -1,0 +1,4 @@
+read dX
+w0 := xN
+read i1
+$$

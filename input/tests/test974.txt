@@ -1,0 +1,5 @@
+read NJ
+read b
+write VE * (877 - 43.4808419)
+read n2
+$$

@@ -1,0 +1,3 @@
+m1 := P + Z9 * Qt / A6
+write m5 * Tw * (i2 / yy)
+$$

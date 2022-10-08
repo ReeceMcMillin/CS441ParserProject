@@ -1,0 +1,3 @@
+write zy * (oL + b / GE) - .32 - 60
+read q2
+$$

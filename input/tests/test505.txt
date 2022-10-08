@@ -1,0 +1,6 @@
+read w2
+Z5 := 065.89 - Y
+write W4 * .9 + o
+write 501.
+write g0
+$$

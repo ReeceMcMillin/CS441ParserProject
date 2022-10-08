@@ -7,7 +7,8 @@
                        "input/Input03.txt"
                        "input/Input04.txt"
                        "input/Input05.txt"
-                       "input/Input06.txt"))
+                       "input/Input06.txt"
+                       "input/Input07.txt"))
 
 (for-each (lambda (file)
             (printf "~n======================== ~a ========================~n~n" file)

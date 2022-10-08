@@ -1,0 +1,7 @@
+write 78. / 6
+read sA
+m := 534.914 - .2
+write l2
+read MJ
+read Nd
+$$

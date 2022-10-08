@@ -1,0 +1,5 @@
+WN := w / 63 + (e)
+read l
+write X4 * Zf
+write Pj / w6
+$$

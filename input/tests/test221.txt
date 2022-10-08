@@ -1,0 +1,4 @@
+n5 := G2 / 550
+read lP
+read E
+$$

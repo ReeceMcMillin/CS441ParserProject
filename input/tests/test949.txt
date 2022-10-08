@@ -1,0 +1,6 @@
+write .76 + 90
+e2 := (c2) / A4
+read u7
+read D
+lH := 5
+$$

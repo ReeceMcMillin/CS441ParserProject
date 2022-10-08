@@ -1,0 +1,7 @@
+write Z2 - (46 - Ak) - FO * ((vl * 35)) / 1
+write 6 * Q5 * (8.99) / h - 282
+write 1.
+read S
+Fn := .4 + 817.5 * .0
+write (88.01)
+$$

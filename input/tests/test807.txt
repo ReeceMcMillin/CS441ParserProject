@@ -1,0 +1,4 @@
+read CG
+read v
+write 42 / 17.3 + 3
+$$

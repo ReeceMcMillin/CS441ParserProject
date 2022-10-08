@@ -1,0 +1,4 @@
+read V
+read gA
+N := 398 - J9 / BE
+$$

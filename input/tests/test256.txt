@@ -1,0 +1,5 @@
+write 5 * 8.9
+read F
+Kx := 25
+read wk
+$$

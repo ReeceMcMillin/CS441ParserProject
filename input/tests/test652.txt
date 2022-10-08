@@ -1,0 +1,4 @@
+write ((S + 23.49 - EX) * hU / 105 + 90.) - (rq - IZ)
+read UZ
+D := .2007213 + D * UK - a5
+$$

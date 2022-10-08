@@ -1,0 +1,5 @@
+read k7
+BR := (nq) * 777.5090 - o5
+read X6
+read bX
+$$

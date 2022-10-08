@@ -1,0 +1,4 @@
+read U8
+write (i4 - B * S1)
+sF := ((Ew) + 1)
+$$

@@ -1,0 +1,5 @@
+write i0 + .8179 + UN + (kO)
+C := w5 * q / .1
+read v
+hU := 66
+$$

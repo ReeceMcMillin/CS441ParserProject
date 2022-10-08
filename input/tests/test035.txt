@@ -1,0 +1,4 @@
+write 00.2 / pq
+read N
+write hV
+$$

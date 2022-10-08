@@ -1,0 +1,4 @@
+k8 := e0 - (4)
+write (7 + k + Q)
+write 43 * xb / ak - X4 / q9 + km + G3
+$$

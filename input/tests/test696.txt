@@ -1,0 +1,4 @@
+Hu := C
+write l3
+write i - fw / Yl
+$$

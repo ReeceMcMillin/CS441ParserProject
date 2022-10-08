@@ -1,0 +1,3 @@
+read l
+Lw := YJ / l0
+$$

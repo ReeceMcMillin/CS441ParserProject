@@ -1,0 +1,4 @@
+read Tk
+read M3
+write .07 + .76
+$$

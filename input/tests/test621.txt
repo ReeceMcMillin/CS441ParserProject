@@ -1,0 +1,5 @@
+read FD
+write (c0 / Y3) + 5175
+nd := p / s0 + 79 - 848.2
+read h
+$$

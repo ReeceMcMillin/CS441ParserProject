@@ -1,0 +1,4 @@
+Gi := dt * ((1)) + (Lw) / .6
+read p6
+write 1.
+$$

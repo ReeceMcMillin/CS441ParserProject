@@ -1,0 +1,4 @@
+read I6
+write (C + R) - b * 4
+write .5
+$$
