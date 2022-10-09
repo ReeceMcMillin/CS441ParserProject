@@ -17,17 +17,6 @@
   (span-acc '() lst))
 
 
-(define-type Token (U TokOp
-                      TokIdent
-                      TokKeyword
-                      TokNum
-                      TokAssign
-                      TokLParen
-                      TokRParen
-                      'TokSpace
-                      'TokNewline
-                      'Unimplemented))
-
 (struct TokAddOp ([op : Symbol] [offset : Number]) #:transparent)
 (struct TokMultOp ([op : Symbol] [offset : Number]) #:transparent)
 (struct TokIdent ([ident : Symbol] [offset : Number]) #:transparent)

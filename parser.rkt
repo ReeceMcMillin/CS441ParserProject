@@ -1,12 +1,11 @@
-#lang plai
-;;; (provide (all-defined-out))
+#lang racket
 
 (require "utility.rkt")
 (require megaparsack megaparsack/text)
 (require data/monad data/applicative)
 (require data/either)
 
-(define declared-variables (make-parser-parameter '()))
+(provide (all-defined-out))
 
 ;;; === Utility ===
 
@@ -41,6 +40,7 @@
 (define write/p
   (buffer-spaces/p (list/p (string/p "write") (char/p #\space))))
 
+;;; === Numeric Tokens ===
 (define float/p
   (do [left <- (many/p integer/p)]
     (char/p #\.)
@@ -91,7 +91,6 @@
 (define term/p
   (do [factor <- factor/p]
     [tail <- factor-tail/p]
-    ;;; (pure (if (void? tail) (list factor) (list factor tail)))))
     (pure (term factor tail))))
 
 (define term-tail/p
@@ -104,7 +103,6 @@
 (define expr/p
   (do [term <- term/p]
     [tail <- term-tail/p]
-    ;;; (pure (if (void? tail) (expr term '()) (expr term tail)))))
     (pure (expr term tail))))
 
 (define declaration/p

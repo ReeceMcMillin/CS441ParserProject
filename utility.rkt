@@ -62,8 +62,6 @@
                                          (make-list (srcloc-span loc) #\↓))))
   (define underline (list->string (append (make-list (srcloc-column loc) #\space)
                                           (make-list (srcloc-span loc) #\↑))))
-  ;;; (printf "error line = ~a~n" line-no)
-  ;;; (printf "num lines = ~a~n" (length lines))
 
   (if (eq? line-no 1)
       (failure (string-append* (parse-error->string err)
